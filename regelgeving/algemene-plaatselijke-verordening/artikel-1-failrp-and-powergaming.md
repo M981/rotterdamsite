@@ -21,4 +21,5 @@
     * Emotes spammen of ongepaste emotes gebruiken tijdens een serieus roleplayscenario;
     * &#x20;Je voertuig als gestolen melden bij de politie of koninklijke marechaussee, terwijl dit niet het geval is;
     * Het spelen op een zodanige resolutie dat er redelijkerwijs van uit kan worden gegaan dat hier voordeel uit wordt gehaald;&#x20;
-    * Het hebben van keybinds voor /me Geen roleplay aangaan na of je niets aantrekken van een (ernstige) verwonding of (verkeers)ongeval.
+    * Het hebben van keybinds voor /me Geen roleplay aangaan na of je niets aantrekken van een (ernstige) verwonding of (verkeers)ongeval;
+    * Iemand in een auto meedragen d.m.v. /carry.
