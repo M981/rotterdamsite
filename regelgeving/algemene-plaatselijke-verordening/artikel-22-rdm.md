@@ -1,5 +1,6 @@
 # Artikel 22 - RDM
-  1. Hij/zij die zonder een geldige reden een persoon moedwillig van het leven beroofd zal gestraft worden volgens de 3e categorie.
+  1. Hij/zij die zonder een geldige reden een persoon moedwillig van het leven beroofd/verwond zal gestraft worden volgens de 3e categorie.
+  2. Hij/zij die zonder een geldige reden een dier moedwillig van het leven beroofd/verwond zal gestraft worden volgens de 3e categorie.
   2. Deze straf kan meerdere malen gegeven worden indien er meer dan één persoon van het leven beroofd is.
   3. Het is niet toegestaan om driveby's te plegen. Even snel uitstappen, iemand doodschieten en wegrijden.
   4. De overtreding vermeldt in het eerste en derde lid staat bekend als “RDM”.
