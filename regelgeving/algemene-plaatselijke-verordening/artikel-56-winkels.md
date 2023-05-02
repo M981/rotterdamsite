@@ -1,4 +1,4 @@
-# Artikel 56 - Winkels
+# Artikel 56 - Winkels ( nog niet van toepassing )
 
 1. Het is niet toegestaan om meerdere winkels op je naam te hebben, dit geldt per persoon.
 2. Het is niet toegestaan om je producten in te kopen bij een andere winkel, je dient zelf je producten binnen te krijgen voor je eigen markt.
