@@ -3,7 +3,7 @@
 1. Bodycam beelden zijn op de volgende manier toegestaan:
 
 * Overheidsdiensten zijn uitgerust met bodycams.
-* Burgers kunnen alleen met hun telefoon filmen, hun mogen een bodycam gebruiken maar deze moet zichtbaar zijn in de roleplay mocht het gerechtelijke gebruikt mogen worden.
+* Burgers kunnen alleen met hun telefoon filmen, hun mogen een bodycam gebruiken maar deze moet zichtbaar zijn in de roleplay mocht het gerechtelijk gebruikt mogen worden.
 * De voertuigen van de overheidsdiensten zijn uitgerust met een 360 graden camera.
 * Overige voertuigen zijn uitgerust met een dashcam gericht naar achteren en voren.
 
