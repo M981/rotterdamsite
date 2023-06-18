@@ -11,5 +11,5 @@ Wetboek:&#x20;
 
 [wetboek](regelgeving/wetboek/ "mention")\
 \
-Bij vragen of opmerkingen, kun je contact opnemen via: m981@infofusionrp.nl
+Bij vragen of opmerkingen, kun je contact opnemen via de support discord.
 {% endhint %}
