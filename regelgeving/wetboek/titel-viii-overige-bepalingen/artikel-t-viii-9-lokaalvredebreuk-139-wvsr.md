@@ -6,6 +6,6 @@
 
 |                         | Celstraf | Taakstraf | boete     |
 | ----------------------- | -------- | --------- | --------- |
-| Eerste Veroordeling     |          | 10 uur    | € 22500,- |
-| Tweede Veroordeling     |          | 25 uur    | € 4500,-  |
-| Meerdere Veroordelingen |          | 30 uur    | € 9000,-  |
+| Eerste Veroordeling     |          | 35 uur    | € 1.500,- |
+| Tweede Veroordeling     |          | 40 uur    | € 2.000,- |
+| Meerdere Veroordelingen |          | 50 uur    | € 3.000,- |

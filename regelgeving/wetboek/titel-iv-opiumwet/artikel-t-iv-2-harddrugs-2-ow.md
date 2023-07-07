@@ -10,40 +10,39 @@
 
 **Rekentabel Harddrugs: ingrediënten**
 
-| _**`1-25 ingrediënten`**_   | _Celstraf_ | _Taakstraf_ | _boete_    |
-| --------------------------- | ---------- | ----------- | ---------- |
-| **Eerste Veroordeling**     |            | 10 uur      | € 10.000,- |
-| **Tweede Veroordeling**     |            | 20 uur      | € 20.000,- |
-| **Meerdere Veroordelingen** | 25 maanden |             | € 40.000,- |
+<table data-header-hidden><thead><tr><th></th><th width="216"></th><th></th><th></th></tr></thead><tbody><tr><td><em><strong><code>6-25 ingrediënten</code></strong></em></td><td><em>Celstraf</em></td><td><em>Taakstraf</em></td><td><em>boete</em></td></tr><tr><td><strong>Eerste Veroordeling</strong></td><td></td><td>20 uur</td><td>€ 2.000,-</td></tr><tr><td><strong>Tweede Veroordeling</strong></td><td></td><td>40 uur</td><td>€ 3.000,-</td></tr><tr><td><strong>Meerdere Veroordelingen</strong></td><td>12 maanden</td><td></td><td>€ 10.000,-</td></tr></tbody></table>
 
-| _**`26-200 ingrediënten`**_ | _Celstraf_ | _Taakstraf_ | _boete_    |
-| --------------------------- | ---------- | ----------- | ---------- |
-| **Eerste Veroordeling**     | 25 maanden |             | € 20.000,- |
-| **Tweede Veroordeling**     | 30 maanden |             | € 40.000,- |
-| **Meerdere Veroordelingen** | 40 maanden |             | € 80.000,- |
+| _**`26-200 ingrediënten`**_ | _Celstraf_ | _Taakstraf_ | _boete_   |
+| --------------------------- | ---------- | ----------- | --------- |
+| **Eerste Veroordeling**     | 18 maanden |             | € 5.000,- |
+| **Tweede Veroordeling**     | 27 maanden |             | € 6.000,- |
+| **Meerdere Veroordelingen** | 54 maanden |             | € 7.000,- |
 
-| _**`>200 ingrediënten`**_   | _Celstraf_ | _Taakstraf_ | _boete_     |
-| --------------------------- | ---------- | ----------- | ----------- |
-| **Eerste Veroordeling**     | 30 maanden |             | € 40.000,-  |
-| **Tweede Veroordeling**     | 40 maanden |             | € 80.000,-  |
-| **Meerdere Veroordelingen** | 50 maanden |             | € 120.000,- |
+| _**`>200 ingrediënten`**_   | _Celstraf_ | _Taakstraf_ | _boete_    |
+| --------------------------- | ---------- | ----------- | ---------- |
+| **Eerste Veroordeling**     | 63 maanden |             | € 8.000,-  |
+| **Tweede Veroordeling**     | 72 maanden |             | € 9.000,-  |
+| **Meerdere Veroordelingen** | 81 maanden |             | € 10.000,- |
 
 **Rekentabel Harddrugs: eindproducten**
 
-| _**`1-5 eindproducten`**_   | _Celstraf_ | _Taakstraf_ | _boete_    |
+| _**`2-5 eindproducten`**_   | _Celstraf_ | _Taakstraf_ | _boete_   |
+| --------------------------- | ---------- | ----------- | --------- |
+| **Eerste Veroordeling**     | 12 maanden |             | € 5.000,- |
+| **Tweede Veroordeling**     | 18 maanden |             | € 6.000,- |
+| **Meerdere Veroordelingen** | 22 maanden |             | € 7.000,- |
+
+
+
+| _**`6-40 eindproducten`**_  | _Celstraf_ | _Taakstraf_ | _boete_    |
 | --------------------------- | ---------- | ----------- | ---------- |
-| **Eerste Veroordeling**     | 15 maanden |             | € 20.000,- |
-| **Tweede Veroordeling**     | 30 maanden |             | € 40.000,- |
-| **Meerdere Veroordelingen** | 40 maanden |             | € 80.000,- |
+| **Eerste Veroordeling**     | 27 maanden |             | € 8.000,-  |
+| **Tweede Veroordeling**     | 36 maanden |             | € 9.000,-  |
+| **Meerdere Veroordelingen** | 54 maanden |             | € 10.000,- |
 
-| _**`6-40 eindproducten`**_  | _Celstraf_ | _Taakstraf_ | _boete_     |
-| --------------------------- | ---------- | ----------- | ----------- |
-| **Eerste Veroordeling**     | 25 maanden |             | € 40.000,-  |
-| **Tweede Veroordeling**     | 40 maanden |             | € 80.000,-  |
-| **Meerdere Veroordelingen** | 50 maanden |             | € 120.000,- |
+| _**`>40 eindproducten`**_   | _Celstraf_ | _Taakstraf_ | _boete_    |
+| --------------------------- | ---------- | ----------- | ---------- |
+| **Eerste Veroordeling**     | 62 maanden |             | € 11.000,- |
+| **Tweede Veroordeling**     | 80 maanden |             | € 12.000,- |
+| **Meerdere Veroordelingen** | 98 maanden |             | € 13.000,- |
 
-| _**`>40 eindproducten`**_   | _Celstraf_ | _Taakstraf_ | _boete_     |
-| --------------------------- | ---------- | ----------- | ----------- |
-| **Eerste Veroordeling**     | 35 maanden |             | € 80.000,-  |
-| **Tweede Veroordeling**     | 50 maanden |             | € 160.000,- |
-| **Meerdere Veroordelingen** | 60 maanden |             | € 230.000,- |

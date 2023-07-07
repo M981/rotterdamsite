@@ -4,8 +4,8 @@
 2. Schuldig is een persoon die zich de toegang heeft verschaft door middel van braak of inklimming, van lockpicks, van een valse order of vals kostuum, of die, zonder voorkennis van de rechthebbende en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
 3. In geval van het tweede lid wordt de staf met 1/3 verhoogd.
 
-|                             | _Celstraf_ | _Taakstraf_ | _boete_    |
-| --------------------------- | ---------- | ----------- | ---------- |
-| **Eerste Veroordeling**     | 20 maanden |             | € 12.500,- |
-| **Tweede Veroordeling**     | 30 maanden |             | € 25.000,- |
-| **Meerdere Veroordelingen** | 35 maanden |             | € 50.000,- |
+|                             | _Celstraf_ | _Taakstraf_ | _boete_   |
+| --------------------------- | ---------- | ----------- | --------- |
+| **Eerste Veroordeling**     |            | 20 uur      | € 2.000,- |
+| **Tweede Veroordeling**     |            | 40 uur      | € 4.000,- |
+| **Meerdere Veroordelingen** |            | 50 uur      | € 6.000,- |

@@ -5,6 +5,6 @@
 
 |                             | _Celstraf_ | _Taakstraf_ | _boete_    |
 | --------------------------- | ---------- | ----------- | ---------- |
-| **Eerste Veroordeling**     |            | 10 maanden  | € 20.000,- |
-| **Tweede Veroordeling**     |            | 15 maanden  | € 40.000,- |
-| **Meerdere Veroordelingen** |            | 25 maanden  | € 80.000,- |
+| **Eerste Veroordeling**     |            | 10 maanden  | € 7.400,-  |
+| **Tweede Veroordeling**     |            | 15 maanden  | € 14.800,- |
+| **Meerdere Veroordelingen** |            | 25 maanden  | € 29.700,- |

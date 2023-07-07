@@ -4,8 +4,8 @@
 2. Alle soorten steekwapens zijn verboden.
 3. De 'Hamer' en 'bijl' vallen onder een steek- en/of slag wapen, indien de verdachte deze onder zich heeft tijdens een strafbaar feit.
 
-|                             | _Celstraf_ | _Taakstraf_ | _boete_     |
-| --------------------------- | ---------- | ----------- | ----------- |
-| **Eerste Veroordeling**     |            | 15 maanden  | € 25.000,-  |
-| **Tweede Veroordeling**     |            | 35 maanden  | € 50.000,-  |
-| **Meerdere Veroordelingen** | 55 maanden |             | € 100.000,- |
+|                             | _Celstraf_ | _Taakstraf_ | _boete_    |
+| --------------------------- | ---------- | ----------- | ---------- |
+| **Eerste Veroordeling**     |            |             | € 5.000,-  |
+| **Tweede Veroordeling**     |            | 40 uur      | € 7.500,-  |
+| **Meerdere Veroordelingen** | 13 maanden |             | € 10.000,- |

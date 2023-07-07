@@ -7,12 +7,12 @@
 
 | _**`Categorie 1`**_         | _Celstraf_ | _Taakstraf_ | _boete_    |
 | --------------------------- | ---------- | ----------- | ---------- |
-| **Eerste Veroordeling**     | 30 maanden |             | € 10.000,- |
-| **Tweede Veroordeling**     | 40 maanden |             | € 20.000,- |
-| **Meerdere Veroordelingen** | 60 maanden |             | € 40.000,- |
+| **Eerste Veroordeling**     | 45 maanden |             | € 10.000,- |
+| **Tweede Veroordeling**     | 63 maanden |             | € 12.500,- |
+| **Meerdere Veroordelingen** | 81 maanden |             | € 15.500,- |
 
-| _**`Categorie 2`**_         | _Celstraf_ | _Taakstraf_ | _boete_    |
-| --------------------------- | ---------- | ----------- | ---------- |
-| **Eerste Veroordeling**     | 50 maanden |             | € 22.500,- |
-| **Tweede Veroordeling**     | 60 maanden |             | € 45.000,- |
-| **Meerdere Veroordelingen** | 70 maanden |             | € 90.000,- |
+| _**`Categorie 2`**_         | _Celstraf_  | _Taakstraf_ | _boete_    |
+| --------------------------- | ----------- | ----------- | ---------- |
+| **Eerste Veroordeling**     | 81 maanden  |             | € 20.000,- |
+| **Tweede Veroordeling**     | 108 maanden |             | € 25.000,- |
+| **Meerdere Veroordelingen** | 144 maanden |             | € 27.500,- |

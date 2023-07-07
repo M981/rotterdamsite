@@ -4,6 +4,6 @@
 
 |                             | _Celstraf_ | _Taakstraf_ | _boete_    |
 | --------------------------- | ---------- | ----------- | ---------- |
-| **Eerste Veroordeling**     |            | 8 uur       | € 10.000,- |
-| **Tweede Veroordeling**     |            | 20 uur      | € 20.000,- |
-| **Meerdere Veroordelingen** |            | 30 uur      | € 40.000,- |
+| **Eerste Veroordeling**     |            | 8 uur       | € 3.700,-  |
+| **Tweede Veroordeling**     |            | 20 uur      | € 7.400,-  |
+| **Meerdere Veroordelingen** |            | 30 uur      | € 14.800,- |
