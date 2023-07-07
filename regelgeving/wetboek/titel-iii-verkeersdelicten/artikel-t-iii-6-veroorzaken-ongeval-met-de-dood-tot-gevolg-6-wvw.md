@@ -5,6 +5,6 @@
 
 |                             | _Celstraf_ | _Taakstraf_ | _boete_    | _rijontzegging_ |
 | --------------------------- | ---------- | ----------- | ---------- | --------------- |
-| **Eerste Veroordeling**     |            | 20 uur      | € 7500,-   | 24 uur          |
-| **Tweede Veroordeling**     | 25 maanden |             | € 15.000,- | 24 uur          |
-| **Meerdere Veroordelingen** | 35 maanden |             | € 30.000,- | 24 uur          |
+| **Eerste Veroordeling**     | 10         |             | € 7500,-   | 24 uur          |
+| **Tweede Veroordeling**     | 15 maanden |             | € 15.000,- | 24 uur          |
+| **Meerdere Veroordelingen** | 20 maanden |             | € 20.000,- | 24 uur          |
