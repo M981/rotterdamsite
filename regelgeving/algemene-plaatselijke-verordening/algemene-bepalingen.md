@@ -2,7 +2,7 @@
 
 ## A1 - Reikwijdte
 
-1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Isae Straat.
+1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Rotterdam.
 2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ## A2 - Geldigheid
@@ -39,8 +39,8 @@
 
 ## A4 - Aanvullende Wetten en Regels
 
-1\. Aanvullend op het APV is er een Wetboek, waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Isae Straat. \* In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.&#x20;
+1\. Aanvullend op het APV is er een Wetboek, waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Rotterdam. \* In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.&#x20;
 
-2\. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht. \* Het Nederlands Recht is zodoende leidend, _tenzij_ er een Wet of Bepaling is opgenomen in de Wetboek Isae Straat. Dan is deze leidend.&#x20;
+2\. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht. \* Het Nederlands Recht is zodoende leidend, _tenzij_ er een Wet of Bepaling is opgenomen in de Wetboek Rotterdam. Dan is deze leidend.&#x20;
 
 3\. Dit wetboek is, net als deze APV en conform de rechtsstaat, ten alle tijden openbaar.

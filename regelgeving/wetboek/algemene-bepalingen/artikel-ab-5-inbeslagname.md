@@ -9,4 +9,4 @@
    * Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een misdrijf, waarbij de eigenaar ook veroordeeld is, uitgekocht kunnen worden voor 20% van de cataloguswaarde;
    * Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan worden gelegd, welke in directe zin gekoppeld is aan de reden van inbeslagname.
    * Uitzonderingsgrond voor teruggave van het voertuig is, indien het een ilegale voertuig betreft. In dit geval zal het voertuig verbeurd worden verklaard.
-6. Van het 4e lid kan worden afgeweken indien een voertuig verbeurd word verklaard als aanvullende straf. In dit geval zal overlegd moeten worden met een raadslid van de gemeente Isae Straat.
+6. Van het 4e lid kan worden afgeweken indien een voertuig verbeurd word verklaard als aanvullende straf. In dit geval zal overlegd moeten worden met een raadslid van de gemeente Rotterdam.
